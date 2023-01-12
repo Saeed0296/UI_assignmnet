@@ -1,0 +1,58 @@
+* {
+    font-family: "Mulish", sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.bgBlue1 {
+    background-image: linear-gradient(to right, #0a2b5e, #0c0c20);
+    background-size: cover;
+}
+
+.bgBlue2 {
+    background-image: linear-gradient(to right, #0c0c20, #0a2b5e);
+    background-size: cover;
+}
+
+.bgGray {
+    background-color: #f6f9fc;
+    background-size: cover;
+}
+
+
+.banner-image {
+    height: 90vh;
+    background: url("../bg.png");
+    background-size:cover;
+    background-position: center;
+}
+
+.btn {
+    border-radius: 24px;
+}
+
+.homepageContent {
+    color: white;
+}
+
+#homepageHeading {
+    width: 130%;
+    font-size: 3em;
+    margin-top: 40%;
+    margin-left: 17%;
+}
+
+#homepageSubheading {
+    width: 130%;
+    margin-top: 10%;
+    margin-left: 17%;
+}
+
+.qouteBtn {
+    margin-left: 17%;
+    margin-top: 10%;
+    width: 10%;
+}
+
+
